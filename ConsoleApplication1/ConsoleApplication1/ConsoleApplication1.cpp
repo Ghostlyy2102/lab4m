@@ -7,6 +7,7 @@ int main()
 {
     setlocale(LC_ALL,"Rus";
     std::cout << "Hello World!\n";
+    std::cout << "Izmeneniye v stariy fael\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
